@@ -1,0 +1,32 @@
+h1 {
+    font-weight: bold;
+    color: rgba(255, 0, 0, 0.61);
+    margin-left: 12.5cm;
+}
+
+#operand1{
+    font-weight: bold;
+    background-color: rgb(71, 168, 201);
+    margin-left: 11cm;
+    padding-left: 3cm;
+    width: 11cm;
+    text-align: center;
+    display: block;
+}
+#operand2{
+    
+    font-weight: bold;
+    padding-right: 0.5cm;
+    margin-right: 15cm;
+    float: right;
+    margin-top: 0px;
+}
+
+#center{
+    margin-left: 8cm;
+    width: 20cm;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(71, 168, 201);
+    text-align: center;
+}
