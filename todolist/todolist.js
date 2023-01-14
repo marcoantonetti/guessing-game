@@ -4,7 +4,7 @@ var tasklist = document.getElementById("taskList");
 
 
 
-//Esto dice que: Al realizar un evento (click), realizar funcion. Funcion añade un item li a ul. li = input
+// Onclick, addfunction is executed. Which adds the users input as an item to the list.
 
 addbutton.addEventListener("click",addfunction);
 function addfunction() {
